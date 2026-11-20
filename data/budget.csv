@@ -1,0 +1,17 @@
+cost_center,category,month,amount
+Building A,Utilities,1,4000
+Building A,Utilities,2,4000
+Building A,Utilities,3,4000
+Building A,Utilities,4,4000
+Building A,Repairs,1,2500
+Building A,Repairs,2,2500
+Building A,Repairs,3,2500
+Building A,Repairs,4,2500
+Building B,Utilities,1,3000
+Building B,Utilities,2,3000
+Building B,Utilities,3,3000
+Building B,Utilities,4,3000
+Building B,Janitorial,1,1800
+Building B,Janitorial,2,1800
+Building B,Janitorial,3,1800
+Building B,Janitorial,4,1800

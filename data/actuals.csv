@@ -1,0 +1,19 @@
+date,cost_center,category,amount
+2026-01-20,Building A,Utilities,3900.00
+2026-02-20,Building A,Utilities,4100.00
+2026-03-20,Building A,Utilities,4350.00
+2026-04-20,Building A,Utilities,4200.00
+2026-01-15,Building A,Repairs,1200.00
+2026-02-10,Building A,Repairs,3100.00
+2026-03-12,Building A,Repairs,4800.00
+2026-04-05,Building A,Repairs,2650.00
+2026-01-22,Building B,Utilities,2800.00
+2026-02-22,Building B,Utilities,2750.00
+2026-03-22,Building B,Utilities,2900.00
+2026-04-22,Building B,Utilities,2850.00
+2026-01-31,Building B,Janitorial,1800.00
+2026-02-28,Building B,Janitorial,1800.00
+2026-03-31,Building B,Janitorial,1800.00
+2026-04-30,Building B,Janitorial,1800.00
+2026-03-18,Building B,Security,950.00
+2025-12-30,Building A,Repairs,9000.00
