@@ -1,5 +1,7 @@
 # budget-vs-actual-report
 
+[![CI](https://github.com/yassine2med/budget-vs-actual-report/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/budget-vs-actual-report/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Comparing a budget with real spending is a monthly chore that usually lives in a spreadsheet. This repo reads a budget CSV and an actuals CSV, adds up both from January through a chosen month, and prints the variance for each cost center and category with a flag where spending is out of line.
 
 ![Screenshot](docs/screenshot.png)
